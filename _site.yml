@@ -1,0 +1,8 @@
+name: "jp-website"
+navbar:
+  title: "JP's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
